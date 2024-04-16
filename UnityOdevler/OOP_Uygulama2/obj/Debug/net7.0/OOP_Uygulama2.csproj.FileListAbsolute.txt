@@ -1,0 +1,15 @@
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.exe
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.deps.json
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.runtimeconfig.json
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.pdb
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.csproj.AssemblyReference.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.AssemblyInfoInputs.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.AssemblyInfo.cs
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\refint\OOP_Uygulama2.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.pdb
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.genruntimeconfig.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama2\obj\Debug\net7.0\ref\OOP_Uygulama2.dll

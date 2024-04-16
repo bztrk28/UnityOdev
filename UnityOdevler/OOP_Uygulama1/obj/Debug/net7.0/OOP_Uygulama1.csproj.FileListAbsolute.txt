@@ -1,0 +1,15 @@
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.csproj.AssemblyReference.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.AssemblyInfoInputs.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.AssemblyInfo.cs
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\bin\Debug\net7.0\OOP_Uygulama1.exe
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\bin\Debug\net7.0\OOP_Uygulama1.deps.json
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\bin\Debug\net7.0\OOP_Uygulama1.runtimeconfig.json
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\bin\Debug\net7.0\OOP_Uygulama1.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\bin\Debug\net7.0\OOP_Uygulama1.pdb
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\refint\OOP_Uygulama1.dll
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.pdb
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\OOP_Uygulama1.genruntimeconfig.cache
+C:\Users\Öztürk\Documents\UnityEgitim\Unity101-Csharp\OOP_Uygulama1\obj\Debug\net7.0\ref\OOP_Uygulama1.dll
